@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fillInWordStatement5Button" type="id" />
+    <item name="fillInWordStatement5Result" type="id" />
+    <item name="fillInWordStatement5" type="id" />
+    <item name="fillInWordStatement4Button" type="id" />
+    <item name="fillInWordStatement4Result" type="id" />
+    <item name="fillInWordStatement4" type="id" />
+    <item name="fillInWordStatement3Button" type="id" />
+    <item name="fillInWordStatement3Result" type="id" />
+    <item name="fillInWordStatement3" type="id" />
+    <item name="fillInWordStatement2Button" type="id" />
+    <item name="fillInWordStatement2Result" type="id" />
+    <item name="fillInWordStatement1Button" type="id" />
+    <item name="fillInWordStatement2" type="id" />
+    <item name="fillInWordStatement1Result" type="id" />
+    <item name="fillInWordStatement1" type="id" />
+    <item name="testImage" type="id" />
+</resources>
